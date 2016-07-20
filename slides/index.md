@@ -1,10 +1,4 @@
 
 # loopback 简介
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+By: 李勇 < mofe@me.com >
