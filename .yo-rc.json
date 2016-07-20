@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "loopback 简介",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "MofeLee",
+    "githubRepository": "loopback-intro"
+  }
+}
